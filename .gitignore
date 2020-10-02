@@ -1,0 +1,10 @@
+.vs/
+APILog/
+Build/
+obj/
+bin/
+packages/
+logs/
+*.user
+*.orig
+*.coverage
